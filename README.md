@@ -6,10 +6,10 @@ I've worked with Oracle ERP, SQL, and PL/SQL during my internship at Gen Digital
 I'm looking for opportunities where I can build AI systems that solve real business problems, ideally in fintech and product-focused teams. Let's connect!
 
 ## 💼 Experience
-- **ERP & Database Intern, Gen Digital**: Oracle ERP R12, SQL, PL/SQL, AI, RAG. Received the Inspire Award.
+- **IT Intern, Gen Digital (Formerly, NortonLifeLock) **: Oracle ERP R12, SQL, PL/SQL, AI, RAG. Received the Inspire Award.
 
 ## 🌐 Socials
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)]([YOUR-LINKEDIN-URL)](https://www.linkedin.com/in/kumareeshwar-r-0552a8286/?isSelfProfile=true)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kumareeshwar-r-0552a8286/?isSelfProfile=true)
 [![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:kumareeshwarr@gmail.com)
 
 ## 💻 Tech Stack
